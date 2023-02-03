@@ -1,4 +1,4 @@
-package main.java.com.multiCam;
+package main.java.com.multiCam.Exception;
 
 public class EmptyException extends RuntimeException {
 	public EmptyException(String msg) {

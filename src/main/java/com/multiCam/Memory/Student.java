@@ -1,4 +1,4 @@
-package main.java.com.multiCam;
+package main.java.com.multiCam.Memory;
 
 public class Student {
 	private String name;

@@ -1,4 +1,6 @@
-package main.java.com.multiCam;
+package main.java.com.multiCam.model;
+
+import main.java.com.multiCam.Memory.StudentList;
 
 import java.util.Scanner;
 
@@ -20,7 +22,7 @@ public class ChangeScore {
 		System.out.println("점수를 입력하세요.");
 		int score = sc.nextInt();
 		
-		StudentList studentList = new StudentList(); 
+		StudentList studentList = new StudentList();
 		studentList.changeScore(studentNumber, subject, score);
 		
 	}

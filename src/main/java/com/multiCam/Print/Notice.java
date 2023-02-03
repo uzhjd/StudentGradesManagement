@@ -1,4 +1,4 @@
-package main.java.com.multiCam;
+package main.java.com.multiCam.Print;
 
 public class Notice {
 	public static void printNoMenu() {

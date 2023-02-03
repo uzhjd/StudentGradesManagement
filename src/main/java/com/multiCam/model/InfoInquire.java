@@ -1,4 +1,7 @@
-package main.java.com.multiCam;
+package main.java.com.multiCam.model;
+
+import main.java.com.multiCam.Memory.Student;
+import main.java.com.multiCam.Memory.StudentList;
 
 import java.util.Scanner;
 

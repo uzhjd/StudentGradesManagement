@@ -1,5 +1,12 @@
 package main.java.com.multiCam;
 
+import main.java.com.multiCam.Print.Menu;
+import main.java.com.multiCam.Print.Notice;
+import main.java.com.multiCam.model.ChangeScore;
+import main.java.com.multiCam.model.DeleteInfo;
+import main.java.com.multiCam.model.InfoInput;
+import main.java.com.multiCam.model.InfoInquire;
+
 import java.util.Scanner;
 
 public class StudentManagement {

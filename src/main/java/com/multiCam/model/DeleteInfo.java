@@ -1,4 +1,7 @@
-package main.java.com.multiCam;
+package main.java.com.multiCam.model;
+
+import main.java.com.multiCam.Print.Menu;
+import main.java.com.multiCam.Memory.StudentList;
 
 public class DeleteInfo {
 	int menu;
@@ -6,7 +9,7 @@ public class DeleteInfo {
 	StudentList studentList = new StudentList();
 	
 	DeleteInfo(){
-		studentNumber = Menu.DeleteStudent();		
+		studentNumber = Menu.DeleteStudent();
 		menu = Menu.DeleteMenu(studentNumber);
 		
 		switch(menu) {

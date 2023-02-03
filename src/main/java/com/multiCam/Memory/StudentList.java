@@ -1,4 +1,6 @@
-package main.java.com.multiCam;
+package main.java.com.multiCam.Memory;
+
+import main.java.com.multiCam.Exception.EmptyException;
 
 import java.util.ArrayList;
 import java.util.Iterator;

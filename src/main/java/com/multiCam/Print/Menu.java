@@ -1,4 +1,4 @@
-package main.java.com.multiCam;
+package main.java.com.multiCam.Print;
 
 import java.util.Scanner;
 
